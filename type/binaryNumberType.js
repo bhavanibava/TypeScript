@@ -6,7 +6,7 @@ var addition = /** @class */ (function () {
     };
     return addition;
 }());
-var a = 20;
-var b = 10;
+var a = 8;
+var b = 2;
 var add_obj = new addition();
 console.log(add_obj.addfun(a, b));
